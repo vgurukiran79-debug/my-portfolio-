@@ -1,0 +1,8 @@
+{
+  "name": "Guru Kiran — AI Universe Portfolio",
+  "description": "Immersive 3D AI Universe portfolio for Guru Kiran, AI & Machine Learning Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
